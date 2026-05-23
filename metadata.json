@@ -1,0 +1,6 @@
+{
+  "name": "Sabal Nepal",
+  "description": "An all-in-one Nepalese companion app with daily vegetable market rates, gold and silver prices, Bikram Sambat calendar, currency converter, emergency hotlines, and a smart AI local helper.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
